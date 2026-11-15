@@ -1,0 +1,24 @@
+# Jekyll configuration for wg.ostera.org, the OSTERA working groups site.
+# GitHub Pages builds this folder (branch main, folder /docs).
+# Do not set baseurl. This site is served from the root of wg.ostera.org.
+
+title: "OSTERA Working Groups"
+short_title: "Working Groups"
+description: "Working Groups are at the heart of the OSTERA process. They unite experts and organizations around shared goals and objectives."
+
+remote_theme: OSTERA-org/ostera-pages-theme
+plugins:
+  - jekyll-remote-theme
+
+ostera_section: wg
+source_url: https://github.com/OSTERA-org-Working-Groups/ostera-org-working-groups.github.io
+
+navigation:
+  - title: Home
+    url: /
+  - title: Participate
+    url: /participate/
+  - title: Publications
+    url: https://pub.ostera.org/
+  - title: GitHub
+    url: https://github.com/OSTERA-org-Working-Groups

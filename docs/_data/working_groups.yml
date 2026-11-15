@@ -1,0 +1,33 @@
+# The working groups listed on the home page of wg.ostera.org, in display order.
+#
+#   id:       short name, used for the site path and the repository name
+#   name:     full name of the working group
+#   abbr:     abbreviation shown after the name
+#   purpose:  one or two sentences for the card
+#   website:  true once https://wg.ostera.org/<id>/ is live
+#   repo:     true once OSTERA-org-Working-Groups/<id> exists
+#   charter:  link to the charter, or leave empty
+
+- id: crgm
+  name: "Cyber Risk Governance Metrics"
+  abbr: CRGM
+  purpose: "The purpose of this working group is to create a standard framework that can enable the C-suite and their board to be more effective and efficient in understanding the actual state of cybersecurity within their organization through appropriate metrics and the business implications thereof."
+  website: false
+  repo: false
+  charter: "https://drive.google.com/file/d/10yNFQezPgWz7C_MrkNFd9kUVVLPETttw/view?usp=drive_link"
+
+- id: cnscp
+  name: "Connectivity Naming System using Connection Profiles"
+  abbr: CNSCP
+  purpose: "CNS/CP is a naming and contract layer for connections between systems that were never designed to work together. CNS resolves a name to a system the way DNS resolves a name to a host."
+  website: false
+  repo: false
+  charter: ""
+
+- id: jss
+  name: "JSON Signature Scheme"
+  abbr: JSS
+  purpose: "The purpose of this working group is to work on solutions that enable JSON data, and JSON like data structures, to be digitally signed and encrypted."
+  website: true
+  repo: true
+  charter: "https://drive.google.com/file/d/1PZxafSvwZ4Jn2MNMCXRMuh5CIN7abDsq/view?usp=drive_link"
