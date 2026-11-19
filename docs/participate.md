@@ -22,10 +22,9 @@ Each working group has a public repository in the [OSTERA Working Groups](https:
 | 01-Governance | Charter, scope statement, and working group procedures |
 | 02-Meetings | Agendas and minutes |
 | 03-Work-Items | Source files for drafts in progress |
-| 04-Publications | Links to approved documents at pub.ostera.org |
-| 05-Liaisons | Public liaison statements |
-| 06-Marketing-Materials | Presentations and promotional material |
-| 07-Website | Source for the working group website |
+| 04-Liaisons | Public liaison statements |
+| 05-Marketing-Materials | Presentations and promotional material |
+| 06-Website | Source for the working group website |
 
 These repositories are public. Material that is confidential to OSTERA members or to a liaison partner must not be placed in them.
 
