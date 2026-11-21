@@ -15,7 +15,7 @@ Each working group website is served from its own repository at https://wg.oster
 | `docs/404.md` | The not found page |
 | `docs/CNAME` | The custom domain (wg.ostera.org). Do not delete it. |
 
-The look and feel comes from the shared [OSTERA Pages Theme](https://github.com/OSTERA-org/ostera-pages-theme).
+The look and feel comes from the shared [OSTERA Pages Theme](https://github.com/OSTERA-org/ostera-pages-theme/).
 
 ## Adding a Working Group
 

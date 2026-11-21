@@ -7,7 +7,7 @@ lead: "Participation in OSTERA working groups is open to OSTERA members."
 
 ## Becoming a Member
 
-To join a working group, your organization (or you, as an individual) must first be an OSTERA member. See [Membership](https://ostera.org/membership) for the membership levels, or contact us at [info@ostera.org](mailto:info@ostera.org).
+To join a working group, your organization (or you, as an individual) must first be an OSTERA member. See [Membership](https://ostera.org/membership/) for the membership levels, or contact us at [info@ostera.org](mailto:info@ostera.org).
 
 ## Joining a Working Group
 
@@ -15,7 +15,7 @@ Once you are a member, contact us at [info@ostera.org](mailto:info@ostera.org) a
 
 ## Working Group Repositories
 
-Each working group has a public repository in the [OSTERA Working Groups](https://github.com/OSTERA-org-Working-Groups) GitHub organization. Every repository uses the same layout:
+Each working group has a public repository in the [OSTERA Working Groups](https://github.com/OSTERA-org-Working-Groups/) GitHub organization. Every repository uses the same layout:
 
 | Folder | Contents |
 | --- | --- |

@@ -11,7 +11,7 @@ plugins:
   - jekyll-remote-theme
 
 ostera_section: wg
-source_url: https://github.com/OSTERA-org-Working-Groups/ostera-org-working-groups.github.io
+repo_url: https://github.com/OSTERA-org-Working-Groups/ostera-org-working-groups.github.io/
 
 navigation:
   - title: Home
@@ -21,4 +21,4 @@ navigation:
   - title: Publications
     url: https://pub.ostera.org/
   - title: GitHub
-    url: https://github.com/OSTERA-org-Working-Groups
+    url: https://github.com/OSTERA-org-Working-Groups/
