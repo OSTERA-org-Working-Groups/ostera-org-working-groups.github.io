@@ -11,7 +11,10 @@ plugins:
   - jekyll-remote-theme
 
 ostera_section: wg
-repo_url: https://github.com/OSTERA-org-Working-Groups/ostera-org-working-groups.github.io/
+
+# The GitHub link in the site bar menu and the footer. For this site it is the
+# working groups organization, not this repository. It ends with "/".
+repo_url: https://github.com/OSTERA-org-Working-Groups/
 
 navigation:
   - title: Home
@@ -20,5 +23,3 @@ navigation:
     url: /participate/
   - title: Publications
     url: https://pub.ostera.org/
-  - title: GitHub
-    url: https://github.com/OSTERA-org-Working-Groups/
