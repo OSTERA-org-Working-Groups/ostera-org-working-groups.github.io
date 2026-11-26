@@ -1,0 +1,23 @@
+# The Working Groups listed on the home page of wg.ostera.org, in display
+# order. Those with website: true also have their Public Reviews listed on
+# the Public Reviews page.
+#
+#   id:       short name, used for the site path and the repository name
+#   name:     full name of the Working Group
+#   abbr:     abbreviation shown after the name
+#   purpose:  one or two sentences for the card
+#   website:  true once https://wg.ostera.org/<id>/ is live
+#   repo:     true once OSTERA-org-Working-Groups/<id> exists
+#   charter:  link to the charter, or leave empty
+
+# Example (remove the [] below when you add the first entry):
+#
+#- id: jss
+#  name: "JSON Signature Scheme"
+#  abbr: JSS
+#  purpose: "The purpose of this Working Group is to work on solutions that enable JSON data, and JSON like data structures, to be digitally signed and encrypted."
+#  website: true
+#  repo: true
+#  charter: "https://github.com/OSTERA-org-Working-Groups/jss/blob/main/01-Governance/2026-11-04-wg-jss-charter.pdf"
+
+[]
