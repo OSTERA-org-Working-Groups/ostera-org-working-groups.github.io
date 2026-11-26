@@ -12,12 +12,10 @@
 
 # Example (remove the [] below when you add the first entry):
 #
-#- id: jss
-#  name: "JSON Signature Scheme"
-#  abbr: JSS
-#  purpose: "The purpose of this Working Group is to work on solutions that enable JSON data, and JSON like data structures, to be digitally signed and encrypted."
-#  website: true
-#  repo: true
-#  charter: "https://github.com/OSTERA-org-Working-Groups/jss/blob/main/01-Governance/2026-11-04-wg-jss-charter.pdf"
-
-[]
+- id: jss
+  name: "JSON Signature Scheme"
+  abbr: JSS
+  purpose: "The purpose of this working group is to work on solutions that enable JSON data, and JSON like data structures, to be digitally signed and encrypted."
+  website: true
+  repo: true
+  charter: "https://github.com/OSTERA-org-Working-Groups/jss/blob/main/01-Governance/2026-11-04-wg-jss-charter.pdf"
