@@ -19,3 +19,11 @@
   website: true
   repo: true
   charter: "https://github.com/OSTERA-org-Working-Groups/jss/blob/main/01-Governance/2026-11-04-wg-jss-charter.pdf"
+- id: crgm
+  name: "Cyber Risk Governance Metrics"
+  abbr: CRGM
+  purpose: "The purpose of this working group is to standardize cyber risk governance metrics."
+  website: true
+  repo: true
+  charter: "https://github.com/OSTERA-org-Working-Groups/crgm/blob/main/01-Governance/2026-05-07-wg-crgm-charter.pdf"
+  
