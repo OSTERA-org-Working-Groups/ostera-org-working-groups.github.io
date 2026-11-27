@@ -26,4 +26,10 @@
   website: true
   repo: true
   charter: "https://github.com/OSTERA-org-Working-Groups/crgm/blob/main/01-Governance/2026-05-07-wg-crgm-charter.pdf"
-  
+- id: cnscp
+  name: "Connectivity Naming System using Connection Profiles"
+  abbr: CNSCP
+  purpose: "The purpose of this working group is to standardize the naming and contract layer for connections between systems that were never designed to work together."
+  website: true
+  repo: true
+  charter: "https://github.com/OSTERA-org-Working-Groups/cnscp/blob/main/01-Governance/2026-10-13-wg-cnscp-charter.pdf"
